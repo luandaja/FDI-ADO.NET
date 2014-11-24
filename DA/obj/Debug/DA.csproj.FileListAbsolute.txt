@@ -1,0 +1,7 @@
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\bin\Debug\DA.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\bin\Debug\DA.pdb
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\bin\Debug\BE.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\bin\Debug\BE.pdb
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\obj\Debug\DA.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\DA\obj\Debug\DA.pdb

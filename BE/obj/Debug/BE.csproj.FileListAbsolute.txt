@@ -1,0 +1,5 @@
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\BE\bin\Debug\BE.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\BE\bin\Debug\BE.pdb
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\BE\obj\Debug\BE.dll
+c:\users\luisantoni\documents\visual studio 2013\Projects\FDIRepasoAdoNet\BE\obj\Debug\BE.pdb
